@@ -1,0 +1,8 @@
+"/home/maci/Projects/maci/skelleton/build/android/gen/android/support/v7/appcompat/R.java"
+"/home/maci/Projects/maci/skelleton/build/android/gen/com/jmaciasportela/skelleton/ApplicationStylesheet.java"
+"/home/maci/Projects/maci/skelleton/build/android/gen/com/jmaciasportela/skelleton/AssetCryptImpl.java"
+"/home/maci/Projects/maci/skelleton/build/android/gen/com/jmaciasportela/skelleton/R.java"
+"/home/maci/Projects/maci/skelleton/build/android/gen/com/jmaciasportela/skelleton/SkelletonActivity.java"
+"/home/maci/Projects/maci/skelleton/build/android/gen/com/jmaciasportela/skelleton/SkelletonAppInfo.java"
+"/home/maci/Projects/maci/skelleton/build/android/gen/com/jmaciasportela/skelleton/SkelletonApplication.java"
+"/home/maci/Projects/maci/skelleton/build/android/gen/ti/modules/titanium/ui/R.java"

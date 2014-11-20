@@ -1,0 +1,1 @@
+/home/maci/Projects/maci/skelleton/Resources/android/controls.js
